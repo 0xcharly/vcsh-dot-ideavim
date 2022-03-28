@@ -1,0 +1,6 @@
+*
+!/.gitignore.d
+!/.gitignore.d/ideavim
+!/.README.d
+!/.README.d/ideavim.md
+!/.ideavimrc
